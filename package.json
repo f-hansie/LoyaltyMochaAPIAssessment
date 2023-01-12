@@ -1,0 +1,16 @@
+{
+  "name": "loyaltyrestapi",
+  "version": "1.0.0",
+  "description": "Mocha RestAPI Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Hansie Maphanga",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
