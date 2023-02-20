@@ -14,6 +14,7 @@ describe('Lists all post api', async function () {
             expect(response.status).to.eql(200);
             console.log(response);
           }, (error) => {
+            
             console.log(error);
           });
     });
